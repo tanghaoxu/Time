@@ -44,8 +44,8 @@ const STATUS_ERROR = -2
 const DEFAULT_OPTIONS = {
   title: 'Disney+ 解锁检测',
   availableContent: 'unlock Disney+ ➟ #REGION_FLAG# #REGION_NAME#',
-  availableIcon: 'macpro.gen3.fill',
-  availableIconColor: '#FF00FF',
+  availableIcon: 'pc',
+  availableIconColor: '#9ACD32',
   availableStyle: 'good',
   comingContent: 'Coming Soon ➟ #REGION_FLAG# #REGION_NAME#',
   comingIcon: undefined,
