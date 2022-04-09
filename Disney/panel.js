@@ -45,7 +45,7 @@ const DEFAULT_OPTIONS = {
   title: 'Disney+ 解锁检测',
   availableContent: 'unlock Disney+ ➟ #REGION_FLAG# #REGION_NAME#',
   availableIcon: 'macpro.gen3.fill',
-  availableIconColor: '#147bff',
+  availableIconColor: '#FF00FF',
   availableStyle: 'good',
   comingContent: 'Coming Soon ➟ #REGION_FLAG# #REGION_NAME#',
   comingIcon: undefined,
